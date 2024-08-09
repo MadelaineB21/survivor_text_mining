@@ -1,0 +1,6 @@
+requests
+pandas
+numpy 
+requests
+bs4
+tqdm
